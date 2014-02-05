@@ -3,7 +3,7 @@
     "description": "Highcharts with exporting.",
     "author": "Wahyu AW",
     "homepage": "https://github.com/wahyuaw/meteor-highcharts-with-exporting",
-    "version": "0.1.1",
+    "version": "0.0.1",
     "git": "https://github.com/wahyuaw/meteor-highcharts-with-exporting.git",
     "packages": {}
 }
